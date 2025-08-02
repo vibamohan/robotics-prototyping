@@ -1,5 +1,7 @@
-# Ignore Gradle project-specific cache directory
-.gradle
+# ignore bazel outs
+bazel-bin
+bazel-out
+bazel-robotics-prototyping
+bazel-testlogs
 
-# Ignore Gradle build output directory
-build
+*.class
