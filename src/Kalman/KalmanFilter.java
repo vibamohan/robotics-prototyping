@@ -1,1 +1,5 @@
-public class KalmanFilter {}
+public class KalmanFilter {
+    static class Simulator {
+        
+    }
+}
